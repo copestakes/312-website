@@ -17,8 +17,9 @@ color:#D3212B;
 background-color: #DBD8B2;
 background: url(../images/band2.jpg);
 background-size: cover;
+background-position: center;
 max-width: 100%;
-height: 55vh;
+height: 65vh;
 margin: auto;
 position: relative;
 }
